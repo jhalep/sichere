@@ -57,7 +57,7 @@
         </div>
     </div>
 </nav>
-<div id="vizContainer" align="center"></div>
+<div id="vizContainer" width="90%" align="center"></div>
 </body>
 
 </html>
