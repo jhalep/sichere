@@ -50,14 +50,14 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-                <a class="nav-item nav-link active" href="/hurtoapersonas">Hurto a Personas <span class="sr-only">(current)</span></a>
-                <a class="nav-item nav-link" href="/hurtoaresidencias">Hurto a Residencias</a>
-                <a class="nav-item nav-link" href="/homicidios">Homicidios</a>
+                <a class="nav-item nav-link active" href="/hurtoapersonas.php">Hurto a Personas <span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link" href="/hurtoaresidencias.php">Hurto a Residencias</a>
+                <a class="nav-item nav-link" href="/homicidios.php">Homicidios</a>
             </div>
         </div>
     </div>
 </nav>
-<div id="vizContainer" align="center"></div>
+<<!--<div id="vizContainer" align="center"></div>-->
 </body>
 
 </html>
