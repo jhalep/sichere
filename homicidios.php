@@ -23,7 +23,7 @@
 
         function initViz() {
             var containerDiv = document.getElementById("vizContainer"),
-                url = "https://10az.online.tableau.com/t/movizzon/views/Informtica/Hoja1?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no&:origin=viz_share_link",
+                url = "https://10az.online.tableau.com/t/movizzon/views/Informtica/Dashboard1?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no&:origin=viz_share_link",
                 options = {
                     hideTabs: false,
                     onFirstInteractive: function () {
