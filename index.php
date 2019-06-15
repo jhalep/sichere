@@ -57,7 +57,10 @@
         </div>
     </div>
 </nav>
-<!--<div id="vizContainer" align="center"></div>-->
+
+<p>Bienvenido a Sichere</p>
+
+
 </body>
 
 </html>
