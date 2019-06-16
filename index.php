@@ -12,35 +12,10 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <script type="text/javascript">
 
-
-        function refreshThatSucker(){
-            alert("entro");
-            viz.refreshDataAsync();
-            alert("salio");
-            //or do something more obvious and evil
-            //viz.showShareDialog();
-        }
-
-        function initViz() {
-            var containerDiv = document.getElementById("vizContainer"),
-                url = "https://10az.online.tableau.com/t/movizzon/views/Informtica/Hoja1?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no&:origin=viz_share_link",
-                options = {
-                    hideTabs: false,
-                    onFirstInteractive: function () {
-                        viz.refreshDataAsync();
-                        console.log("Run this code when the viz has finished loading.");
-                    }
-                };
-
-            var viz = new tableau.Viz(containerDiv, url, options);
-            // Create a viz object and embed it in the container div.
-
-        }
-
     </script>
 </head>
 
-<body onload="initViz();">
+<body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
         <a class="navbar-brand" href="/">Sichere</a>
