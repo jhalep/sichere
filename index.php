@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Inform</title>
+    <title>Sichere MCIC Informática</title>
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
@@ -33,19 +33,20 @@
     </div>
 </nav>
 
-<p>Bienvenido a Sichere</p>
 
-<p>Proyecto Final de Informática - MCIC</p>
+<p align="center">Bienvenido a Sichere</p>
 
-<p>Universidad Distrital Francisco José de Caldas</p>
+<p align="center">Proyecto Final de Informática - MCIC</p>
 
-<p>Jose Augusto Carvajal Torres</p>
+<p align="center">Universidad Distrital Francisco José de Caldas</p>
 
-<p>Jhon Alejandro Peña Tellez</p>
+<p align="center">Jose Augusto Carvajal Torres</p>
 
-<p>Donna Johanna Tamayo Hernandez</p>
+<p align="center">Jhon Alejandro Peña Tellez</p>
 
-<p>Agradecimientos especiales a Movizzon SAS por facilitar el uso de la licencia Tableau</p>
+<p align="center">Donna Johanna Tamayo Hernandez</p>
+
+<p align="center">Agradecimientos especiales a Movizzon SAS por facilitar el uso de la licencia Tableau</p>
 
 </body>
 
