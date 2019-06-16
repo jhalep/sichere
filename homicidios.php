@@ -23,7 +23,7 @@
 
         function initViz() {
             var containerDiv = document.getElementById("vizContainer"),
-                url = "https://10az.online.tableau.com/t/movizzon/views/Informtica/Dashboard1?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no&:origin=viz_share_link",
+                url = "https://public.tableau.com/views/ProyectoFinalInformtica/DashboardHomicidios?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link",
                 options = {
                     hideTabs: false,
                     onFirstInteractive: function () {

@@ -60,6 +60,17 @@
 
 <p>Bienvenido a Sichere</p>
 
+<p>Proyecto Final de Informática - MCIC</p>
+
+<p>Universidad Distrital Francisco José de Caldas</p>
+
+<p>Jose Augusto Carvajal Torres</p>
+
+<p>Jhon Alejandro Peña Tellez</p>
+
+<p>Donna Johanna Tamayo Hernandez</p>
+
+<p>Agradecimientos especiales a Movizzon SAS por facilitar el uso de la licencia Tableau</p>
 
 </body>
 
